@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\bin\Debug\Meno constructor.exe.config
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\bin\Debug\Meno constructor.exe
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\bin\Debug\Meno constructor.pdb
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\obj\Debug\Meno constructor.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\obj\Debug\Meno constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\obj\Debug\Meno_constructor.Form1.resources
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\obj\Debug\Meno_constructor.Properties.Resources.resources
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\obj\Debug\Meno constructor.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\obj\Debug\Meno constructor.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\obj\Debug\Meno constructor.exe
+C:\Users\emili\source\repos\Meno constructor\Meno constructor\obj\Debug\Meno constructor.pdb
